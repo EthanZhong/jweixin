@@ -1,1 +1,1 @@
-# 微信官方JS-SDK
+# 微信官方JS-SDK jweixin-1.0.0.js
