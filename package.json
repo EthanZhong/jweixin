@@ -1,0 +1,23 @@
+{
+  "name": "jweixin",
+  "version": "1.0.0",
+  "description": "wechat js-sdk",
+  "main": "jweixin-1.0.0.js",
+  "scripts": {
+    "test": "false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanZhong/jweixin.git"
+  },
+  "keywords": [
+    "wechat",
+    "js-sdk"
+  ],
+  "author": "EthanZhong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EthanZhong/jweixin/issues"
+  },
+  "homepage": "https://github.com/EthanZhong/jweixin#readme"
+}
